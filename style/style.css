@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.conteiner{
+    display:flex;
+    flex-direction:column;
+}
+
+.div1{
+    text-align: center; 
+    background-color: #af2a5f;
+    height: 100px;
+    
+}
+
+.div1 h1{
+    font-size: 60px;
+}
+
+.div2 img{
+    width: 100%;
+    height: 400px;
+}
+
+.div3{
+    text-align: center;
+}
+
+.div3 ul img{
+    width: 46px;
+    height: 43px;
+}
+
+.div3 ul{
+    padding: 15px;
+}
+
+/* obg igor */
